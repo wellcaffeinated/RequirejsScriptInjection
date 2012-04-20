@@ -1,0 +1,1 @@
+define([], (function(w){return w;})(this));
